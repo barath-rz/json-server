@@ -4,12 +4,10 @@
     { "id": 2, "name": "Barath" },
     { "id": 3, "name": "Hari" }
   ],
-  "courses": [
-    { "id": 1, "name": "bhagavath Geetha" },
-    { "id": 2, "name": "Mundaka Upanishad" },
-    { "id": 3, "name": "Viveka choodamani" },
-    { "id": 4, "name": "Introduction to vedanta vedanta" },
-    { "id": 5, "name": "Thaithriyam" }
+  "course": [
+    { "id": 1, "name": "Bhagavath geetha" },
+    { "id": 2, "name": "upanishad" },
+    { "id": 3, "name": "mundaka upadnishad" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
