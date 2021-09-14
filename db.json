@@ -7,7 +7,10 @@
   "course": [
     { "id": 1, "name": "Bhagavath geetha" },
     { "id": 2, "name": "upanishad" },
-    { "id": 3, "name": "mundaka upadnishad" }
+    { "id": 3, "name": "mundaka upadnishad" },
+    { "id": 4, "name": "Introduction to vedanta vedanta" },
+    { "id": 5, "name": "Thaitriya updanishad" },
+    { "id": 6, "name": "Viveka Choodamani" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
