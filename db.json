@@ -12,6 +12,19 @@
     { "id": 5, "name": "Thaitriya updanishad" },
     { "id": 6, "name": "Viveka Choodamani" }
   ],
+  "event": [
+    { "id": 1, "name": "Vijayadashami" },
+    { "id": 2, "name": "Medha dakshina Moorthy Pooja" },
+    { "id": 3, "name": "Parayanam" }
+  ],
+  "location": [
+    { "id": 1, "name": "Gurupaduka mandapam" },
+    { "id": 2, "name": "Swami Vidyaranya Satsang Hall" },
+    { "id": 3, "name": "Takkar Baba School" },
+    { "id": 4, "name": "venugopala Swamy temple" },
+    { "id": 5, "name": "Manjakudi" },
+    { "id": 6, "name": "Dayanandha Saraswati Ashram" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 },
